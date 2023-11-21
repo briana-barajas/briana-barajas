@@ -2,7 +2,7 @@
 
 **Pronouns**: she/her
 
-**Personal Website**: https://bbarajas429.github.io/
+**Personal Website**: https://briana-barajas.github.io/
 
 <!--
 **bbarajas429/bbarajas429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
