@@ -1,4 +1,4 @@
-<h1 align="center"> Briana Barajas 🐢 </h1>
+<h1 align="center"> Briana Barajas 🐛 </h1>
 
 **Pronouns**: she/her
 
