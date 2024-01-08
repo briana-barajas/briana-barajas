@@ -1,7 +1,7 @@
 <h1 align="center"> Briana Barajas 🐛 </h1>
 <h3 align="center">Plant Pathology | Environmental Data Science </h3>
 
-**Pronouns**: she/her
+**👩‍💻 Pronouns**: she/her
 
 **📝 Personal Website**: https://briana-barajas.github.io/
 
