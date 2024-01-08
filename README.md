@@ -1,10 +1,11 @@
 <h1 align="center"> Briana Barajas 🐛 </h1>
+<h3 align="center">Plant Pathology | Environmental Data Science </h3>
 
 **Pronouns**: she/her
 
-**Website**: https://briana-barajas.github.io/
+**📝 Personal Website**: https://briana-barajas.github.io/
 
-### What am I up to?
+### 🌱 What am I up to?
 - Current Courses:
     - Data Visualization and Communication
     - Machine Learning for Environmental Data Science
@@ -13,7 +14,7 @@
     - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
     - Species distribution modeling for native CA salamander
 
-### Education
+### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
 - B.S. Zoology - University of California, Santa Barbara (2022)
 
