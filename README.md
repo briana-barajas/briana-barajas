@@ -2,7 +2,22 @@
 
 **Pronouns**: she/her
 
-**Personal Website**: https://briana-barajas.github.io/
+**Website**: https://briana-barajas.github.io/
+
+### What am I up to?
+- Current Courses:
+    - Data Visualization and Communication
+    - Machine Learning for Environmental Data Science
+    - Environmental Policy Evaluation
+- Projects in the Works:
+    - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
+    - Species distribution modeling for native CA salamander
+
+### Education
+- Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
+- B.S. Zoology - University of California, Santa Barbara (2022)
+
+
 
 <!--
 **bbarajas429/bbarajas429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
