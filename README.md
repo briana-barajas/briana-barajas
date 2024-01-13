@@ -12,7 +12,6 @@
     - Environmental Policy Evaluation
 - Projects in the Works:
     - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-    - Species distribution modeling for native CA salamander
 
 ### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
