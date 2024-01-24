@@ -10,8 +10,9 @@
     - Data Visualization and Communication
     - Machine Learning for Environmental Data Science
     - Environmental Policy Evaluation
-- Projects in the Works:
+- Current Projects:
     - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
+    - Analyzing MaxEnt SDM performance for a plethodontid salamander with a narrow distribution
 
 ### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
