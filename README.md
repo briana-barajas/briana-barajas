@@ -12,7 +12,7 @@
     - Environmental Policy Evaluation
 - Current Projects:
     - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-    - Analyzing MaxEnt SDM performance for a plethodontid salamander with a narrow distribution
+    - Assessing MaxEnt model performance for a plethodontid salamander with a narrow species distribution 
 
 ### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
