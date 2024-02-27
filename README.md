@@ -11,8 +11,8 @@
     - Machine Learning for Environmental Data Science
     - Environmental Policy Evaluation
 - Current Projects:
-    - Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-    - Assessing MaxEnt model performance for a plethodontid salamander with a narrow species distribution 
+    - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
+    - Creating and assessing species distribution model performance for the California Slimy Salamander
 
 ### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
