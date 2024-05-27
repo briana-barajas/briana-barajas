@@ -6,6 +6,9 @@
 **📝 Personal Website**: https://briana-barajas.github.io/
 
 ### 🌱 What am I up to?
+- Current Projects:
+    - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
+    - Creating and assessing species distribution model performance for the Black-Bellied Slender Salamander (*Batrachoseps nigriventris*)
 - Current Courses:
   - Modeling Environmental Systems
   - Databases & Data Management
@@ -14,9 +17,7 @@
     - Statistics for Environmental Data Science
     - Data Visualization and Communication
     - Geospatial Analysis & Remote Sensing
-- Current Projects:
-    - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-    - Creating and assessing species distribution model performance for the Black-Bellied Slender Salamander (*Batrachoseps nigriventris*)
+
 
 ### 📚 Education
 - Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
