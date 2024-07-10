@@ -7,21 +7,22 @@
 
 ### 🌱 What am I up to?
 - Current Projects:
-    - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-    - Creating and assessing species distribution model performance for the Black-Bellied Slender Salamander (*Batrachoseps nigriventris*)
-- Current Courses:
-  - Modeling Environmental Systems
-  - Databases & Data Management
+    - Interactive spatial data visualization and modeling to inform management of Santa Barbara vernal pools
+    - Assessing species distribution model performance on a small spatial scale for the Black-Bellied Slender Salamander (*Batrachoseps nigriventris*)
+      
+- Past Projects:
+  - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
+
 - Past Courses:
-    - Machine Learning for Environmental Data Science
     - Statistics for Environmental Data Science
-    - Data Visualization and Communication
     - Geospatial Analysis & Remote Sensing
+    - Databases & Data Management
+    - Modeling Environmental Systems
 
 
 ### 📚 Education
-- Master of Environmental Data Science - University of California, Santa Barbara (Expected June 2024)
-- B.S. Zoology - University of California, Santa Barbara (2022)
+- Master of Environmental Data Science - University of California, Santa Barbara
+- B.S. Zoology - University of California, Santa Barbara
 
 
 <!--
