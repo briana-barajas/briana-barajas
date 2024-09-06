@@ -1,5 +1,5 @@
 <h1 align="center"> Briana Barajas 🐛 </h1>
-<h3 align="center">Landscape Ecology | Environmental Data Science </h3>
+<h3 align="center">  Environmental Data Science </h3>
 
 **👩‍💻 Pronouns**: she/her
 
