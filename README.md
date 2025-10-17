@@ -6,18 +6,14 @@
 **📝 Personal Website**: https://briana-barajas.github.io/
 
 ### 🌱 What am I up to?
+- Current Role:
+    - Water Resources Specialist, County of Ventura
 - Current Projects:
-    - Interactive spatial data visualization and modeling to inform management of Santa Barbara vernal pools
-    - Assessing species distribution model performance on a small spatial scale for the Black-Bellied Slender Salamander (*Batrachoseps nigriventris*)
+    - Species Distribution Modeling for the Black-bellied Slender Salamander (*Batrachoseps nigriventris*) in Camp Roberts, CA
       
 - Past Projects:
+  - Interactive Spatial Data Visualization to Inform Management of Santa Barbara Vernal Pools
   - Master's Group Capstone, Mapping Global Tree Vulnerability Under Climate Change
-
-- Past Courses:
-    - Statistics for Environmental Data Science
-    - Geospatial Analysis & Remote Sensing
-    - Databases & Data Management
-    - Modeling Environmental Systems
 
 
 ### 📚 Education
